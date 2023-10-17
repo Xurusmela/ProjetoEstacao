@@ -1,3 +1,4 @@
+#totalmente modificado por mim
 mes = input('Diga em que mês você esta: ')
 dia = input('Diga em que dia você esta: ')
 if mes == ('1', '2' or '3') and dia >= '20':
